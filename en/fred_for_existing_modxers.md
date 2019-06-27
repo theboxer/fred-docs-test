@@ -1,3 +1,9 @@
+---
+title: "Fred for Existing MODXers"
+description: ""
+sortorder: 2
+---
+
 # Fred for Current MODX Developers
 
 Fred is a visual drag-and-drop content editor that can minimize or eliminate the need for daily content authors and editors to use the MODX Manager. As such, Fred allows users to author content without having to learn the Manager, interacting with content as it will show on the page. This visual, drag-and-drop experience is considered more intuitive and easy to learn by many. 

@@ -1,3 +1,9 @@
+---
+title: "Credits"
+description: ""
+sortorder: 10
+---
+
 # Credits
 
 Fred uses Open Source components. You can find the source code, along with license information, in the links below. We acknowledge and are grateful to these developers for their contributions to open source.

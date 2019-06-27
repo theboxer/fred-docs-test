@@ -1,3 +1,9 @@
+---
+title: "Fred Plugin Development"
+description: ""
+sortorder: 9
+---
+
 # Developing for Fred
 
 Fred is maintained [at Github](https://github.com/modxcms/fred), and is an MIT-licensed Open Source project. Issues and Pull Requests to enhance its functionality and to fix bugs are welcome.

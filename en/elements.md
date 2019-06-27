@@ -1,3 +1,9 @@
+---
+title: "Elements"
+description: ""
+sortorder: 5
+---
+
 # Elements
 
 Fred Elements are the basic building blocks used by end-users to create content. They can be as simple as a single headline or paragraph, or more complex like a hero intro with configurable background images, text padding, opacity settings and more.

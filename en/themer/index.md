@@ -1,3 +1,9 @@
+---
+title: "Fred for Themers"
+description: ""
+sortorder: 7
+---
+
 # Creating a Theme for Fred
 
 Fred themers should have a basic understanding of MODX, be proficient with HTML/CSS markup for creating Elements, and be able to create valid JSON for Option Sets.

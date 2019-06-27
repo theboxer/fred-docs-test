@@ -1,3 +1,9 @@
+---
+title: "Blueprints"
+description: ""
+sortorder: 6
+---
+
 # Blueprints
 
 Blueprints are pre-designed content sections or even full pages of content. These can be used as starting points for structured content like landing pages, product pages, etc. Blueprints function as a “replace the placeholders” way to create content. They are a collection of one or more Elements with sample content and images in place.

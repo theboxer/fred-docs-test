@@ -1,3 +1,9 @@
+---
+title: "What is Fred?"
+description: ""
+sortorder: 1
+---
+
 # What is Fred?
 
 Fred is a visual drag-and-drop **fr**ont-end **ed**itor for [MODX CMS](https://modx.com). It empowers ordinary people to create exceptional content without knowing how to code or learning complex interfaces.

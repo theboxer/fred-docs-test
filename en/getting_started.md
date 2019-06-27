@@ -1,3 +1,9 @@
+---
+title: "Getting Started"
+description: ""
+sortorder: 3
+---
+
 # Getting Started
 
 The easiest way to start with Fred is to install a Fred Theme.
